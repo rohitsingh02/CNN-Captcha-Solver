@@ -1,6 +1,7 @@
 # CNN-Captcha-Solver
 Solving Complex Captchas using Convolution Neural Network
 
+![abc](abc.jpg)
 
 ### Install
 
@@ -63,6 +64,4 @@ Whole case study is implemented using machine learning template which contains 6
 `a) Predictions on validation dataset`
 `b) Create standalone model on entire training dataset`
 `c) Save model for later use`
-
-![abc](abc.jpg)
 
