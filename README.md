@@ -3,6 +3,8 @@ Solving Complex Captchas using Convolution Neural Network
 
 ![abc](abc.jpg)
 
+This Model has accuracy of 99% on Test Data
+
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
